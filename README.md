@@ -1,7 +1,7 @@
-R_SQLite[FMDB]
+R_SQLite_FMDB
 =================
 
-R_SQLite[FMDB] is a small class using FMDB SQLite wrapper for managing databases.
+R_SQLite_FMDB is a small class using FMDB SQLite wrapper for managing databases.
 
 Usage
 -------------
